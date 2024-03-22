@@ -4,6 +4,13 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+openai="*"
+langchain="*"
+docx2txt="*"
+pypdf="*"
+streamlit="*"
+chromadb="*"
+tiktoken="*"
 
 [dev-packages]
 
